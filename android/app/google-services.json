@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675972461424",
+    "project_id": "my-wedding-ef991",
+    "storage_bucket": "my-wedding-ef991.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675972461424:android:2c3316255002b9dd19d5b5",
+        "android_client_info": {
+          "package_name": "com.dadible.mywedding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9TZuhNiUINh6FN8NuBq3CSIwapSbFoVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675972461424:android:a3a223db5a82eb6f19d5b5",
+        "android_client_info": {
+          "package_name": "com.example.wedding_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9TZuhNiUINh6FN8NuBq3CSIwapSbFoVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
